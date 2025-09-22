@@ -1,4 +1,4 @@
-import metapredict as meta  
+import metapredict as meta   
 import pandas as pd   
 
 def import_tsv(filename):
